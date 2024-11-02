@@ -22,6 +22,10 @@ npm install
 npm run dev
 ```
 
+```sh
+npm run server
+```
+
 ### Compile and Minify for Production
 
 ```sh
